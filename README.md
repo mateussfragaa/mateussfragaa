@@ -2,15 +2,14 @@
 
 ###
 
+<div align="center">
+    ![mateussfragaa's Stats](https://github-readme-stats.vercel.app/api?username=mateussfragaa&theme=vue-dark&show_icons=true&hide_border=false&count_private=false)
+    ![mateussfragaa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mateussfragaa&theme=vue-dark&hide_border=false)
+    ![mateussfragaa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mateussfragaa&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+</div>
 
-![mateussfragaa's Stats](https://github-readme-stats.vercel.app/api?username=mateussfragaa&theme=vue-dark&show_icons=true&hide_border=false&count_private=false)
 
-![mateussfragaa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mateussfragaa&theme=vue-dark&hide_border=false)
-
-![mateussfragaa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mateussfragaa&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 ###
-
-
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
