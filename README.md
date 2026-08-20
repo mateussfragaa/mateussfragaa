@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante de Sistemas de Informação pela UNISUL e Análise e Desenvolvimento de Sistemas pela GRAN faculdade<br>Aspirante do Exército Brasileiro
+Terceira Fase ADS e segunda Fase de Sistemas de Informação<br>Aspirante do Exército Brasileiro
 
 
 ## 🌐 Socials:
