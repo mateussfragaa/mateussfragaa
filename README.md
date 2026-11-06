@@ -1,4 +1,4 @@
-# 💫 About Me:
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/1fc32819-ae42-4a80-a4bb-270f9cfd1317" /># 💫 About Me:
 Terceira Fase ADS e segunda Fase de Sistemas de Informação<br>Aspirante do Exército Brasileiro
 
 
@@ -22,6 +22,8 @@ Terceira Fase ADS e segunda Fase de Sistemas de Informação<br>Aspirante do Ex�
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg](https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/aws.svg)" height="40" alt="amazonwebservices logo"  />
 </div>
 
 ###
