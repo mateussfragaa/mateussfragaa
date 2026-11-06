@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/1fc32819-ae42-4a80-a4bb-270f9cfd1317" /># 💫 About Me:
+# 💫 About Me:
 Terceira Fase ADS e segunda Fase de Sistemas de Informação<br>Aspirante do Exército Brasileiro
 
 
