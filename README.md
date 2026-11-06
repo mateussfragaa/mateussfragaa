@@ -23,7 +23,8 @@ Terceira Fase ADS e segunda Fase de Sistemas de Informação<br>Aspirante do Ex�
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://fontawesome.com/icons/brands/solid/aws" height="40" alt="amazonwebservices logo"  />
+  <img src="<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/1c8caf21-dc60-41cb-96b3-ed9d3d27a767" />
+" height="40" alt="amazonwebservices logo"  />
 </div>
 
 ###
